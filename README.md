@@ -1,10 +1,10 @@
 # 🏄‍♂️ Pranao Sahasrabuddhey 
 
-**' Python | ReactJS '**
+** Python | Django | ReactJS **
 
-I am Python and ReactJS developer/learner navigating my digital version one day at a time. Graduated from VIT Chennai. 
+I am Python. Django and ReactJS developer/learner navigating my digital version one day at a time. Make my projects from the way up. 
 
-### 🧰 Languages and Tools
+### 🧰 Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
