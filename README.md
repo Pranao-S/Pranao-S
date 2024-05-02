@@ -1,6 +1,6 @@
 # 🏄‍♂️ Pranao Sahasrabuddhey 
 
-** Python | Django | ReactJS **
+**` Python | Django | ReactJS `**
 
 I am Python. Django and ReactJS developer/learner navigating my digital version one day at a time. Make my projects from the way up. 
 
