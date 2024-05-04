@@ -2,7 +2,7 @@
 
 **` Python | Django | ReactJS `**
 
-I am Python. Django and ReactJS developer/learner navigating my digital version one day at a time. Make my projects from the way up. 
+I am Python. Django and ReactJS developer/learner navigating the digital world version one day at a time. I make my projects from the scratch. 
 
 ### 🧰 Languages
 
